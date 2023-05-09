@@ -8,7 +8,7 @@ ERC20 FT Tokens
 ERC721 NFT TOKENS
 ERC1155 SEMI NFT/FT
 
-You can use IDE to test this smart contract.
+You can use REMIX ONLINE IDE to use this smart contract.
  - https://remix.ethereum.org/
  - upload this folder
  - you can test it in the remix 
